@@ -19,3 +19,15 @@ WebStorm
 Windows, Linux (Ubuntu)
 ##### GitHub systems:
 GitHub
+### Education:
+- 2019 IT-Academy
+courses: "Website development with HTML, CSS & Javascript", "Web application development with Javascript"
+
+- 07/2007 - 02/2013 Belarus State Economic University
+Specialist’s Degree in International Economics
+
+### Foreign languages:
+English – Pre-Intermediate: able to speak, read technical literature; carry on business correspondence, understand content of audio and video materials according to the level.
+
+### Future professional plans:
+Progress in actual front-end technologies, learning new frameworks and acquisition of experience, growth in «horizontal» direction, improving my foreign language skills.
